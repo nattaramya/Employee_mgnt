@@ -1,0 +1,38 @@
+.loginPage {
+    background: url('https://beckerlawyers.com/wp-content/uploads/2021/01/Board-Protection-LIFB.jpg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("https://beckerlawyers.com/wp-content/uploads/2021/01/Board-Protection-LIFB.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+.dashboard{
+    background: url('https://static.wixstatic.com/media/66cfaa_c3b48767b1584a3da54f7c6168df64bf~mv2.jpg/v1/fill/w_1200,h_680,al_c,q_85,enc_auto/66cfaa_c3b48767b1584a3da54f7c6168df64bf~mv2.jpg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("https://static.wixstatic.com/media/66cfaa_c3b48767b1584a3da54f7c6168df64bf~mv2.jpg/v1/fill/w_1200,h_680,al_c,q_85,enc_auto/66cfaa_c3b48767b1584a3da54f7c6168df64bf~mv2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+.loginForm {
+    background-color: rgba(1, 32, 93, 0.6);
+    color: white;
+}
+
+ul li :hover {
+    background-color: gray;
+}
+
+.employee_image {
+    width: 120px;
+    height: 120px;
+    
+}
+
+.emp_det_image {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+h4{
+    color: brown;
+}
+
